@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.head{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center !important;
+    padding: 15px;
+}
+
+address{
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.about{
+    text-align: center;
+    padding: 15px;
+}
+.exp{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.exp1{
+    display: flex !important;
+    align-items: end;
+    margin-left: 22px;
+    margin-top: 10px;
+
+}
+
+.leftside{
+    margin-left: 70%;
+    margin-top: 10px;
+}
+.expList{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.institute{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.spanskill{
+    font-weight: 700;
+    padding: 10px;
+}
+
+.ref{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.spanref{
+    font-weight: 700;
+    padding: 10px;
+}
+.spanin{
+    font-weight: 700;
+}
